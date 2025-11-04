@@ -1,6 +1,6 @@
 # Deep-Learning
 
-# CIFAR-10 Image Classification with MLP
+# (1) CIFAR-10 Image Classification with MLP
 
 ## 📘 Overview  
 본 프로젝트는 **PyTorch**를 사용하여 CIFAR-10 데이터셋을 분류하는  
